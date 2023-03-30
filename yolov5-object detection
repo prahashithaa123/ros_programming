@@ -1,2 +1,8 @@
-#step one - https://github.com/ultralytics/yolov5
-
+#step one - https://github.com/ultralytics/yolov5   (run in collab)
+#step two - run the setup 
+#step three - run the train (change epochs to 20)
+#step four - copy the validation 
+# run the detect ny replacing yolov5s.pt by the validated ,,,.pt file 
+(if custome output is to be shown go to yolov5 > data> images-upload from pic )
+and rerun the detect 
+#the final image will be saved in runs/run file 
